@@ -1,0 +1,30 @@
+{
+  "devBlogEntries": [
+    {
+      "id": 1,
+      "title": "One",
+      "author": "Connor",
+      "publishDate": "2025-07-26",
+      "category": "Movie",
+      "tags": ["comedy", "movie", "sony", "animation"],
+      "content": "The Emoji Movie by Sony pictures is an immaculate work of animation genius. From the beginning the viewer is placed on an enthralling ride through the world of emojis."
+    },
+    {
+     {
+      "id": 2,
+      "title": "The Grand Budapest Hotel",
+      "author": "Connor",
+      "publishDate": "2025-07-27",
+      "category": "Movie",
+      "tags": ["comedy", "drama", "searchlight", "movie"],
+      "content": "The Grand Budapest Hotel directed by Wes Andersen is an all-time great in the realm of dramatic comedy works. Its director's reputation as an art film director may dissuade some from viewing, but Andersen's comedic writing is immensely valuable especially when placed simultaneously with some of his best dramatic work in the same film!"
+    },
+    {
+      "id": 3,
+      "title": "Peaky Blinders",
+      "author": "Connor",
+      "publishDate": "2025-07-28",
+      "category": "TV",
+      "tags": ["tv", "drama", "historical", "british"],
+      "content": "The historical period crime drama Peaky Blinders is a masterpiece of television with world-class acting from Cilian Murphy in the role of Tommy Shelby."
+    }
